@@ -1,0 +1,21 @@
+button {
+    padding: 10%;
+    margin: 0 20px;
+    display: inline-block;
+    background-color: #16C60C;
+    font-size: 60px;
+}
+
+body {
+    text-align: center;
+    background-color: #CCFFBB;
+}
+
+.restart {
+    font-size: 20px;
+}
+
+footer {
+    font-size: 15px;
+}
+
